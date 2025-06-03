@@ -1,0 +1,27 @@
+.quiz-box{
+    width: 70%;
+    height: 80%;
+    margin-left: 14%;
+    margin-top: 12%;
+   
+}
+.boxed{
+    background-color: rgb(9, 227, 239);
+}
+ .form-check-input {
+    transform: scale(1);
+    margin-right: 10px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+
+  .form-check-label {
+    font-size: 1.1rem;
+    cursor: pointer;    
+  }
+  #time{
+   float: right;
+  }
+  #quiz{
+    display: none;
+  }
